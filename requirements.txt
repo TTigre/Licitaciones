@@ -93,7 +93,7 @@ typing-extensions==4.12.2
 typing-inspect==0.9.0
 tzdata==2025.1
 uritemplate==4.1.1
-urllib3==2.3.0
+urllib3==2.5.0
 watchdog==6.0.0
 yarl==1.18.3
 zstandard==0.23.0
