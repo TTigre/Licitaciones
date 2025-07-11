@@ -227,7 +227,7 @@ QUESTION_OPTIONS = [""] + list(PREDEFINED_QUESTIONS.keys())[1:]  # Excluye la cl
 
 def show_landing_page():
     """Display the landing page with file upload and URL input."""
-    st.set_page_config(page_title="Chatea con tus Licitaciones usando IA", page_icon="📚")
+    st.set_page_config(page_title="Analiza tus Licitaciones usando IA", page_icon="📚")
     
     # Custom CSS for better styling
     st.markdown("""
