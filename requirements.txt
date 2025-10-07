@@ -43,7 +43,7 @@ langchain==0.3.18
 langchain-community==0.3.17
 langchain-core==0.3.34
 langchain-google-genai==2.0.9
-langchain-text-splitters==0.3.6
+langchain-text-splitters==1.0.0a1
 langsmith==0.3.8
 markdown-it-py==3.0.0
 markupsafe==3.0.2
