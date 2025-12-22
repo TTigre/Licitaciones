@@ -47,7 +47,7 @@ langchain-text-splitters==0.3.6
 langsmith==0.3.8
 markdown-it-py==3.0.0
 markupsafe==3.0.2
-marshmallow==3.26.1
+marshmallow==3.26.2
 mdurl==0.1.2
 multidict==6.1.0
 mypy-extensions==1.0.0
